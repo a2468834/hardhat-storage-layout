@@ -9,6 +9,6 @@
     "hardhat-storage-layout": "^0.1.6"
   },
   "scripts": {
-    "start": "node scripts/layout.js"
+    "start": "yarn hardhat run scripts/layout.js"
   }
 }
